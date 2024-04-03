@@ -33,15 +33,3 @@ Open Nejavu Website for Automate Testing
     Check Cart To Empty
     
 
-# TODO:: Verify ชื่อหนังสือทุกเล่ม ที่อยู่ในตระกร้า โดยใช้ชื่อที่ได้มาจากข้อที่แล้ว
-
-
-
-
-#     # Close Modal If Exists
-#     # [Teardown]    Close Browser
-
-
-# # Click Menu
-# #     [Arguments]    ${menu_name}
-# #     Click Element    xpath://div[contains(@class,'dn-lg')]//li[2]//a[1]
