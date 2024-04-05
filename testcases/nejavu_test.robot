@@ -22,7 +22,6 @@ Open Nejavu Website for Automate Testing
     Maximize Browser Window
     Sleep    ${Wait Time}
     Close Modal If Exists
-    Sleep    ${Wait Time}
     Click Accept Cookie
     Redirect to CartoonPage
     Get Book Titles In First Row
